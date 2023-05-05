@@ -1,6 +1,6 @@
 Hi, I’m Christian Neumanns.
 
-I’m interested in all kinds of ideas and implementations that make software development more practical.
+I’m interested in everything that makes software development more practical.
 
 I'm the creator of:
 
