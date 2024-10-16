@@ -1,14 +1,9 @@
-Hi, I’m Christian Neumanns.
-
-I’m interested in everything that makes software development more practical.
-
-I'm the creator of:
+Hi, I’m Christian Neumanns, the creator of:
 
 - [Practical Data and Markup Language (PDML)](https://pdml-lang.github.io/)
 - [Practical Markup Language (PML)](https://pml-lang.dev/)
-- [Practical Programming Language (PPL)](https://ppl-lang.dev/)
 
-You can contact me by emailing to chris [at] pml-lang [dot] dev.
+To know more about me, read my blog, or send me a message, please visit [cnpp.dev](https://www.cnpp.dev/).
 
 <!---
 cneumanns/cneumanns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
